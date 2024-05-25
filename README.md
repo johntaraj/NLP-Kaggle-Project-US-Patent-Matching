@@ -2,6 +2,7 @@
 
 ![image](https://github.com/johntaraj/NLP-Kaggle-Project-US-Patent-Matching/assets/134852121/b794b676-1e56-4f82-8d0e-f3317aeb8cf9)
 
+Link: https://www.kaggle.com/competitions/us-patent-phrase-to-phrase-matching/data
 
 This project involves building a model to predict the semantic similarity of phrases in the context of US patents. The goal is to help improve the efficiency and accuracy of patent analysis.
 
