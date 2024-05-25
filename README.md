@@ -1,4 +1,7 @@
-# NLP Kaggle Project US patent matching# US Patent Phrase to Phrase Matching
+# NLP Kaggle Project US Patent Phrase to Phrase Matching
+
+![image](https://github.com/johntaraj/NLP-Kaggle-Project-US-Patent-Matching/assets/134852121/b794b676-1e56-4f82-8d0e-f3317aeb8cf9)
+
 
 This project involves building a model to predict the semantic similarity of phrases in the context of US patents. The goal is to help improve the efficiency and accuracy of patent analysis.
 
